@@ -1,0 +1,31 @@
+{
+  "name": "vla-blog",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "具身星图：聚焦 VLA / WAM 的具身智能研究地图，涵盖论文细读、模型与基准对比、数据集、产业新闻和交互知识图谱。",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "graph:build": "node scripts/build-offline-knowledge-graph.mjs",
+    "graph:html": "node scripts/build-graphify-html.mjs",
+    "news:fetch": "node scripts/fetch-news.mjs",
+    "news:merge": "node scripts/news-merge.mjs",
+    "news:run": "npm run news:fetch && npm run news:merge"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "cytoscape": "^3.33.4",
+    "cytoscape-fcose": "^2.2.0",
+    "leaflet": "^1.9.4",
+    "leaflet.markercluster": "^1.5.3",
+    "ogl": "^1.0.11",
+    "three": "^0.184.0"
+  },
+  "devDependencies": {
+    "markdown-it-mathjax3": "^4.3.2",
+    "mermaid": "^11.4.1",
+    "vitepress": "^1.6.3",
+    "vitepress-plugin-mermaid": "^2.0.17"
+  }
+}
