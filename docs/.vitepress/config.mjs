@@ -5,7 +5,7 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 // 注意:base 需与 GitHub 仓库名一致(项目页 https://<user>.github.io/<repo>/)
-const SITE_BASE = '/embodied-ai-learning/'
+const SITE_BASE = '/vla_blog/'
 const DOCS_ROOT = fileURLToPath(new URL('../', import.meta.url))
 
 function cleanWikiLabel(raw, slug) {
@@ -141,8 +141,8 @@ function paperHrefFromPath(rawPath) {
 
 function normalizeInternalHref(href, baseDir = '') {
   let value = String(href || '')
-    .replace(/^https?:\/\/zhuyun97\.github\.io\/embodied-ai-learning/, '')
-    .replace(/^\/embodied-ai-learning/, '')
+    .replace(/^https?:\/\/(zhuyun97\.github\.io\/embodied-ai-learning|shawxiaodahua\.github\.io\/vla_blog)/, '')
+    .replace(/^\/(embodied-ai-learning|vla_blog)\//, '/')
   if (!value || /^(https?:|mailto:|tel:)/.test(value)) return value
   const hashIndex = value.indexOf('#')
   if (hashIndex >= 0) value = value.slice(0, hashIndex)
@@ -279,7 +279,7 @@ export default withMermaid(defineConfig({
 
   // SEO:生成 sitemap.xml(GitHub Pages 项目页完整域名)
   sitemap: {
-    hostname: 'https://zhuyun97.github.io/embodied-ai-learning/',
+    hostname: 'https://shawxiaodahua.github.io/vla_blog/',
   },
 
   // 启用 LaTeX 数学公式渲染(需 markdown-it-mathjax3,已在 devDependencies)
@@ -371,7 +371,7 @@ export default withMermaid(defineConfig({
   // 不会把自评数字洗成裸事实。纯静态产物,无运行时。
   buildEnd: async (siteConfig) => {
     try {
-      const ORIGIN = 'https://zhuyun97.github.io/embodied-ai-learning/'
+      const ORIGIN = 'https://shawxiaodahua.github.io/vla_blog/'
       const srcDir = siteConfig.srcDir
       const outDir = siteConfig.outDir
 
@@ -621,7 +621,7 @@ export default withMermaid(defineConfig({
     ['script', {}, "try{if(localStorage.getItem('zen-reading')==='1')document.documentElement.classList.add('zen-reading')}catch(e){}"],
     // 预渲染恢复「可信度透镜」状态(dim=暗化自评/待核,strict=仅显已核),避免刷新闪烁
     ['script', {}, "try{var l=localStorage.getItem('cred-lens');if(l==='dim'||l==='strict')document.documentElement.classList.add('lens-'+l)}catch(e){}"],
-    ['link', { rel: 'icon', type: 'image/png', href: '/embodied-ai-learning/favicon-atlas.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/vla_blog/favicon-atlas.png' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
     // 站点字体:Inter(正文/中文回退)+ JetBrains Mono(等宽代码/链接 chip)+ Orbitron(科幻显示体:英文标题/数字/HUD)
@@ -631,16 +631,16 @@ export default withMermaid(defineConfig({
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:site_name', content: '具身星图' }],
     ['meta', { property: 'og:locale', content: 'zh_CN' }],
-    ['meta', { property: 'og:url', content: 'https://zhuyun97.github.io/embodied-ai-learning/' }],
+    ['meta', { property: 'og:url', content: 'https://shawxiaodahua.github.io/vla_blog/' }],
     ['meta', { property: 'og:title', content: '具身星图 · Embodied AI Atlas' }],
     ['meta', { property: 'og:description', content: 'VLA × WAM 前沿谱系、88 篇论文细读、知识图谱、新闻与产业生态,经多源检索与对抗式事实核查整理。' }],
-    ['meta', { property: 'og:image', content: 'https://zhuyun97.github.io/embodied-ai-learning/og.png' }],
+    ['meta', { property: 'og:image', content: 'https://shawxiaodahua.github.io/vla_blog/og.png' }],
     ['meta', { property: 'og:image:width', content: '1200' }],
     ['meta', { property: 'og:image:height', content: '630' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:title', content: '具身星图 · Embodied AI Atlas' }],
     ['meta', { name: 'twitter:description', content: 'VLA × WAM 前沿谱系、88 篇论文细读、知识图谱与产业生态,经对抗式事实核查整理。' }],
-    ['meta', { name: 'twitter:image', content: 'https://zhuyun97.github.io/embodied-ai-learning/og.png' }],
+    ['meta', { name: 'twitter:image', content: 'https://shawxiaodahua.github.io/vla_blog/og.png' }],
   ],
 
   themeConfig: {
@@ -749,11 +749,11 @@ export default withMermaid(defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ZhuYun97/embodied-ai-learning' },
+      { icon: 'github', link: 'https://github.com/shawxiaodahua/vla_blog' },
     ],
 
     editLink: {
-      pattern: 'https://github.com/ZhuYun97/embodied-ai-learning/edit/main/docs/:path',
+      pattern: 'https://github.com/shawxiaodahua/vla_blog/edit/main/docs/:path',
       text: '在 GitHub 上编辑本页',
     },
 
