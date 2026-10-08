@@ -21,10 +21,19 @@ function setHomePageNavigator(fn) {
     navigatorFn = fn
 }
 
+function requestHomePage(page, options = {}) {
+    if (navigatorFn) {
+        navigatorFn(page, options)
+    } else {
+        setActiveHomePage(page)
+    }
+}
+
 export {
     HOME_PAGES,
     activeHomePage,
     activeExploreNode,
     setActiveHomePage,
     setHomePageNavigator,
+    requestHomePage,
 }
