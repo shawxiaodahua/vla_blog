@@ -1,0 +1,1686 @@
+{
+    "companies": [
+        {
+            "id": "physical-intelligence",
+            "name": "Physical Intelligence",
+            "nameZh": "物理智能",
+            "nameEn": "Physical Intelligence",
+            "region": "international",
+            "stage": "early",
+            "founded": 2024,
+            "funding": "$400M",
+            "fundingAmount": 400000000,
+            "description": "Building general-purpose robot foundation models",
+            "website": "https://physicalintelligence.company",
+            "products": [],
+            "tags": [
+                "VLA",
+                "world model"
+            ]
+        },
+        {
+            "id": "figure-ai",
+            "name": "Figure AI",
+            "nameZh": "Figure AI",
+            "nameEn": "Figure AI",
+            "region": "international",
+            "stage": "unicorn",
+            "founded": 2022,
+            "funding": "$675M",
+            "fundingAmount": 675000000,
+            "description": "Developing autonomous humanoid robots",
+            "website": "https://figure.ai",
+            "products": [
+                "Figure 01",
+                "Figure 02"
+            ],
+            "tags": [
+                "humanoid"
+            ]
+        },
+        {
+            "id": "boston-dynamics",
+            "name": "Boston Dynamics",
+            "nameZh": "波士顿动力",
+            "nameEn": "Boston Dynamics",
+            "region": "international",
+            "stage": "mature",
+            "founded": 1992,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Pioneer in advanced mobile manipulation robots",
+            "website": "https://bostondynamics.com",
+            "products": [
+                "Atlas",
+                "Spot",
+                "Stretch"
+            ],
+            "tags": [
+                "humanoid",
+                "quadruped"
+            ]
+        },
+        {
+            "id": "agility-robotics",
+            "name": "Agility Robotics",
+            "nameZh": "敏捷机器人",
+            "nameEn": "Agility Robotics",
+            "region": "international",
+            "stage": "growth",
+            "founded": 2015,
+            "funding": "$180M",
+            "fundingAmount": 180000000,
+            "description": "Building Digit, a human-centric multi-purpose robot",
+            "website": "https://agilityrobotics.com",
+            "products": [
+                "Digit"
+            ],
+            "tags": [
+                "humanoid",
+                "logistics"
+            ]
+        },
+        {
+            "id": "1x-technologies",
+            "name": "1X Technologies",
+            "nameZh": "1X科技",
+            "nameEn": "1X Technologies",
+            "region": "international",
+            "stage": "growth",
+            "founded": 2014,
+            "funding": "$125M",
+            "fundingAmount": 125000000,
+            "description": "Building humanoid robots for the physical world",
+            "website": "https://1x.tech",
+            "products": [
+                "NEO",
+                "EVE"
+            ],
+            "tags": [
+                "humanoid"
+            ]
+        },
+        {
+            "id": "apptronik",
+            "name": "Apptronik",
+            "nameZh": "Apptronik",
+            "nameEn": "Apptronik",
+            "region": "international",
+            "stage": "early",
+            "founded": 2016,
+            "funding": "$28M",
+            "fundingAmount": 28000000,
+            "description": "General-purpose humanoid robots",
+            "website": "https://apptronik.com",
+            "products": [
+                "Apollo"
+            ],
+            "tags": [
+                "humanoid"
+            ]
+        },
+        {
+            "id": "sanctuary-ai",
+            "name": "Sanctuary AI",
+            "nameZh": "Sanctuary AI",
+            "nameEn": "Sanctuary AI",
+            "region": "international",
+            "stage": "growth",
+            "founded": 2018,
+            "funding": "$100M",
+            "fundingAmount": 100000000,
+            "description": "Building human-like intelligence in general-purpose robots",
+            "website": "https://sanctuary.ai",
+            "products": [
+                "Phoenix"
+            ],
+            "tags": [
+                "humanoid"
+            ]
+        },
+        {
+            "id": "skild-ai",
+            "name": "Skild AI",
+            "nameZh": "Skild AI",
+            "nameEn": "Skild AI",
+            "region": "international",
+            "stage": "early",
+            "founded": 2023,
+            "funding": "$300M",
+            "fundingAmount": 300000000,
+            "description": "Building a general-purpose robotics foundation model",
+            "website": "https://skild.ai",
+            "products": [],
+            "tags": [
+                "VLA",
+                "foundation model"
+            ]
+        },
+        {
+            "id": "humanoid-uk",
+            "name": "Humanoid UK",
+            "nameZh": "Humanoid UK",
+            "nameEn": "Humanoid UK",
+            "region": "international",
+            "stage": "early",
+            "founded": 2023,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "UK-based humanoid robotics company",
+            "website": "",
+            "products": [],
+            "tags": [
+                "humanoid"
+            ]
+        },
+        {
+            "id": "mecka-ai",
+            "name": "Mecka AI",
+            "nameZh": "Mecka AI",
+            "nameEn": "Mecka AI",
+            "region": "international",
+            "stage": "early",
+            "founded": 2023,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "AI-powered robotics startup",
+            "website": "",
+            "products": [],
+            "tags": []
+        },
+        {
+            "id": "tesla",
+            "name": "Tesla",
+            "nameZh": "特斯拉",
+            "nameEn": "Tesla",
+            "region": "international",
+            "stage": "public",
+            "founded": 2003,
+            "funding": "Public",
+            "fundingAmount": 0,
+            "description": "Developing Optimus humanoid robot",
+            "website": "https://tesla.com",
+            "products": [
+                "Optimus"
+            ],
+            "tags": [
+                "humanoid",
+                "autonomous"
+            ]
+        },
+        {
+            "id": "nvidia",
+            "name": "NVIDIA",
+            "nameZh": "英伟达",
+            "nameEn": "NVIDIA",
+            "region": "international",
+            "stage": "public",
+            "founded": 1993,
+            "funding": "Public",
+            "fundingAmount": 0,
+            "description": "GR00T foundation model and Isaac robotics platform",
+            "website": "https://nvidia.com",
+            "products": [
+                "GR00T",
+                "Isaac Sim",
+                "Jetson"
+            ],
+            "tags": [
+                "VLA",
+                "simulation",
+                "foundation model"
+            ]
+        },
+        {
+            "id": "world-labs",
+            "name": "World Labs",
+            "nameZh": "世界实验室",
+            "nameEn": "World Labs",
+            "region": "international",
+            "stage": "early",
+            "founded": 2024,
+            "funding": "$230M",
+            "fundingAmount": 230000000,
+            "description": "Spatial intelligence for embodied AI by Fei-Fei Li",
+            "website": "https://worldlabs.ai",
+            "products": [],
+            "tags": [
+                "world model",
+                "spatial intelligence"
+            ]
+        },
+        {
+            "id": "covariant",
+            "name": "Covariant",
+            "nameZh": "Covariant",
+            "nameEn": "Covariant",
+            "region": "international",
+            "stage": "growth",
+            "founded": 2017,
+            "funding": "$222M",
+            "fundingAmount": 222000000,
+            "description": "AI robotics foundation models for warehouses",
+            "website": "https://covariant.ai",
+            "products": [],
+            "tags": [
+                "VLA",
+                "logistics"
+            ]
+        },
+        {
+            "id": "field-ai",
+            "name": "Field AI",
+            "nameZh": "Field AI",
+            "nameEn": "Field AI",
+            "region": "international",
+            "stage": "early",
+            "founded": 2021,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "AI robotics for field operations",
+            "website": "",
+            "products": [],
+            "tags": []
+        },
+        {
+            "id": "dexterity",
+            "name": "Dexterity",
+            "nameZh": "Dexterity",
+            "nameEn": "Dexterity",
+            "region": "international",
+            "stage": "growth",
+            "founded": 2017,
+            "funding": "$200M",
+            "fundingAmount": 200000000,
+            "description": "Full-stack dexterous robot systems for logistics",
+            "website": "https://dexterity.ai",
+            "products": [],
+            "tags": [
+                "logistics",
+                "manipulation"
+            ]
+        },
+        {
+            "id": "collaborative-robotics",
+            "name": "Collaborative Robotics",
+            "nameZh": "Collaborative Robotics",
+            "nameEn": "Collaborative Robotics",
+            "region": "international",
+            "stage": "early",
+            "founded": 2022,
+            "funding": "$100M",
+            "fundingAmount": 100000000,
+            "description": "Building practical collaborative robots",
+            "website": "https://cobotics.ai",
+            "products": [],
+            "tags": [
+                "collaborative"
+            ]
+        },
+        {
+            "id": "generalist",
+            "name": "Generalist",
+            "nameZh": "Generalist",
+            "nameEn": "Generalist",
+            "region": "international",
+            "stage": "early",
+            "founded": 2023,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "General-purpose AI robotics",
+            "website": "",
+            "products": [],
+            "tags": []
+        },
+        {
+            "id": "genesis",
+            "name": "Genesis Robotics",
+            "nameZh": "Genesis Robotics",
+            "nameEn": "Genesis Robotics",
+            "region": "international",
+            "stage": "early",
+            "founded": 2023,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Robotics components and actuators",
+            "website": "",
+            "products": [],
+            "tags": [
+                "actuator"
+            ]
+        },
+        {
+            "id": "dyna",
+            "name": "Dyna Robotics",
+            "nameZh": "Dyna Robotics",
+            "nameEn": "Dyna Robotics",
+            "region": "international",
+            "stage": "early",
+            "founded": 2024,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Affordable AI-powered robotic arms",
+            "website": "",
+            "products": [],
+            "tags": []
+        },
+        {
+            "id": "google-deepmind",
+            "name": "Google DeepMind",
+            "nameZh": "谷歌DeepMind",
+            "nameEn": "Google DeepMind",
+            "region": "international",
+            "stage": "mature",
+            "founded": 2010,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Pioneering AI research including robotics (RT-1, RT-2, RT-X)",
+            "website": "https://deepmind.google",
+            "products": [
+                "RT-2",
+                "RoboCat",
+                "SARA-RT"
+            ],
+            "tags": [
+                "VLA",
+                "world model",
+                "foundation model"
+            ]
+        },
+        {
+            "id": "intrinsic",
+            "name": "Intrinsic",
+            "nameZh": "Intrinsic",
+            "nameEn": "Intrinsic",
+            "region": "international",
+            "stage": "mature",
+            "founded": 2021,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Alphabet's robotics software and AI platform",
+            "website": "https://intrinsic.ai",
+            "products": [],
+            "tags": [
+                "platform",
+                "simulation"
+            ]
+        },
+        {
+            "id": "amazon-robotics",
+            "name": "Amazon Robotics",
+            "nameZh": "亚马逊机器人",
+            "nameEn": "Amazon Robotics",
+            "region": "international",
+            "stage": "mature",
+            "founded": 2012,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Warehouse automation and robotics",
+            "website": "https://amazonrobotics.com",
+            "products": [
+                "Proteus",
+                "Cardinal",
+                "Sparrow"
+            ],
+            "tags": [
+                "logistics"
+            ]
+        },
+        {
+            "id": "neura-robotics",
+            "name": "Neura Robotics",
+            "nameZh": "Neura Robotics",
+            "nameEn": "Neura Robotics",
+            "region": "international",
+            "stage": "growth",
+            "founded": 2019,
+            "funding": "$55M",
+            "fundingAmount": 55000000,
+            "description": "Cognitive robots with AI integration",
+            "website": "https://neura-robotics.com",
+            "products": [],
+            "tags": [
+                "cognitive"
+            ]
+        },
+        {
+            "id": "anybotics",
+            "name": "ANYbotics",
+            "nameZh": "ANYbotics",
+            "nameEn": "ANYbotics",
+            "region": "international",
+            "stage": "growth",
+            "founded": 2016,
+            "funding": "$50M",
+            "fundingAmount": 50000000,
+            "description": "Autonomous four-legged inspection robots",
+            "website": "https://anybotics.com",
+            "products": [
+                "ANYmal"
+            ],
+            "tags": [
+                "quadruped",
+                "inspection"
+            ]
+        },
+        {
+            "id": "engineered-arts",
+            "name": "Engineered Arts",
+            "nameZh": "Engineered Arts",
+            "nameEn": "Engineered Arts",
+            "region": "international",
+            "stage": "mature",
+            "founded": 2005,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Humanoid entertainment robots (Ameca)",
+            "website": "https://engineeredarts.co.uk",
+            "products": [
+                "Ameca"
+            ],
+            "tags": [
+                "humanoid"
+            ]
+        },
+        {
+            "id": "mujin",
+            "name": "Mujin",
+            "nameZh": "Mujin",
+            "nameEn": "Mujin",
+            "region": "international",
+            "stage": "growth",
+            "founded": 2011,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Intelligent robot controller platform",
+            "website": "https://mujin.co.jp",
+            "products": [],
+            "tags": [
+                "controller",
+                "logistics"
+            ]
+        },
+        {
+            "id": "robust-ai",
+            "name": "Robust.AI",
+            "nameZh": "Robust.AI",
+            "nameEn": "Robust.AI",
+            "region": "international",
+            "stage": "early",
+            "founded": 2019,
+            "funding": "$20M",
+            "fundingAmount": 20000000,
+            "description": "Cognitive platform for collaborative robots",
+            "website": "https://robust.ai",
+            "products": [
+                "Carter"
+            ],
+            "tags": [
+                "logistics"
+            ]
+        },
+        {
+            "id": "graymatter",
+            "name": "GrayMatter Robotics",
+            "nameZh": "GrayMatter Robotics",
+            "nameEn": "GrayMatter Robotics",
+            "region": "international",
+            "stage": "early",
+            "founded": 2020,
+            "funding": "$20M",
+            "fundingAmount": 20000000,
+            "description": "AI-powered robotics for manufacturing",
+            "website": "https://graymatter-robotics.com",
+            "products": [],
+            "tags": [
+                "manufacturing"
+            ]
+        },
+        {
+            "id": "nimble",
+            "name": "Nimble Robotics",
+            "nameZh": "Nimble Robotics",
+            "nameEn": "Nimble Robotics",
+            "region": "international",
+            "stage": "growth",
+            "founded": 2019,
+            "funding": "$115M",
+            "fundingAmount": 115000000,
+            "description": "Autonomous robotic fulfillment systems",
+            "website": "https://nimble.ai",
+            "products": [],
+            "tags": [
+                "logistics",
+                "manipulation"
+            ]
+        },
+        {
+            "id": "standard-bots",
+            "name": "Standard Bots",
+            "nameZh": "Standard Bots",
+            "nameEn": "Standard Bots",
+            "region": "international",
+            "stage": "early",
+            "founded": 2018,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Accessible robotic arms for all",
+            "website": "https://standardbots.com",
+            "products": [
+                "RO1"
+            ],
+            "tags": [
+                "manipulation"
+            ]
+        },
+        {
+            "id": "ubtech",
+            "name": "优必选",
+            "nameZh": "优必选",
+            "nameEn": "UBTECH",
+            "region": "china",
+            "stage": "public",
+            "founded": 2012,
+            "funding": "HKEX Listed",
+            "fundingAmount": 500000000,
+            "description": "Leading humanoid robot company in China",
+            "website": "https://ubtrobot.com",
+            "products": [
+                "Walker",
+                "Alpha Mini"
+            ],
+            "tags": [
+                "humanoid"
+            ]
+        },
+        {
+            "id": "unitree",
+            "name": "宇树科技",
+            "nameZh": "宇树科技",
+            "nameEn": "Unitree",
+            "region": "china",
+            "stage": "unicorn",
+            "founded": 2016,
+            "funding": "B轮",
+            "fundingAmount": 150000000,
+            "description": "Leading quadruped and humanoid robot company",
+            "website": "https://unitree.com",
+            "products": [
+                "H1",
+                "G1",
+                "B2",
+                "Go2"
+            ],
+            "tags": [
+                "humanoid",
+                "quadruped"
+            ]
+        },
+        {
+            "id": "cloudminds",
+            "name": "达闼科技",
+            "nameZh": "达闼科技",
+            "nameEn": "CloudMinds",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2015,
+            "funding": "B轮",
+            "fundingAmount": 200000000,
+            "description": "Cloud-based AI humanoid robot platform",
+            "website": "https://cloudminds.com",
+            "products": [
+                "Ginger"
+            ],
+            "tags": [
+                "humanoid",
+                "cloud"
+            ]
+        },
+        {
+            "id": "robotera",
+            "name": "星尘智能",
+            "nameZh": "星尘智能",
+            "nameEn": "RobotEra",
+            "region": "china",
+            "stage": "early",
+            "founded": 2022,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Humanoid robot startup",
+            "website": "",
+            "products": [],
+            "tags": [
+                "humanoid"
+            ]
+        },
+        {
+            "id": "linkerbot",
+            "name": "灵童机器人",
+            "nameZh": "灵童机器人",
+            "nameEn": "LinkerBot",
+            "region": "china",
+            "stage": "early",
+            "founded": 2022,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Desktop companion robots",
+            "website": "",
+            "products": [],
+            "tags": [
+                "desktop"
+            ]
+        },
+        {
+            "id": "agibot",
+            "name": "智元机器人",
+            "nameZh": "智元机器人",
+            "nameEn": "Agibot",
+            "region": "china",
+            "stage": "unicorn",
+            "founded": 2023,
+            "funding": "A+轮",
+            "fundingAmount": 200000000,
+            "description": "Humanoid robots by former Huawei engineer",
+            "website": "https://agibot.com",
+            "products": [
+                "Yuanzheng A1",
+                "Yuanzheng A2"
+            ],
+            "tags": [
+                "humanoid"
+            ]
+        },
+        {
+            "id": "fourier",
+            "name": "傅利叶智能",
+            "nameZh": "傅利叶智能",
+            "nameEn": "Fourier Intelligence",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2015,
+            "funding": "D轮",
+            "fundingAmount": 150000000,
+            "description": "General-purpose humanoid robot GR series",
+            "website": "https://fourierintelligence.com",
+            "products": [
+                "GR-1",
+                "GR-2"
+            ],
+            "tags": [
+                "humanoid",
+                "rehabilitation"
+            ]
+        },
+        {
+            "id": "limx",
+            "name": "逐际动力",
+            "nameZh": "逐际动力",
+            "nameEn": "LimX Dynamics",
+            "region": "china",
+            "stage": "early",
+            "founded": 2022,
+            "funding": "A轮",
+            "fundingAmount": 50000000,
+            "description": "General-purpose legged robots",
+            "website": "https://limxdynamics.com",
+            "products": [],
+            "tags": [
+                "quadruped",
+                "humanoid"
+            ]
+        },
+        {
+            "id": "x-humanoid",
+            "name": "加速进化",
+            "nameZh": "加速进化",
+            "nameEn": "X-Humanoid",
+            "region": "china",
+            "stage": "early",
+            "founded": 2023,
+            "funding": "天使轮",
+            "fundingAmount": 10000000,
+            "description": "Humanoid robot startup",
+            "website": "",
+            "products": [],
+            "tags": [
+                "humanoid"
+            ]
+        },
+        {
+            "id": "galbot",
+            "name": "银河通用",
+            "nameZh": "银河通用",
+            "nameEn": "Galbot",
+            "region": "china",
+            "stage": "early",
+            "founded": 2023,
+            "funding": "天使轮",
+            "fundingAmount": 70000000,
+            "description": "General-purpose embodied AI robots",
+            "website": "",
+            "products": [],
+            "tags": [
+                "embodied"
+            ]
+        },
+        {
+            "id": "vbot",
+            "name": "智愈机器人",
+            "nameZh": "智愈机器人",
+            "nameEn": "VBot",
+            "region": "china",
+            "stage": "early",
+            "founded": 2021,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "AI-powered service robots",
+            "website": "",
+            "products": [],
+            "tags": [
+                "service"
+            ]
+        },
+        {
+            "id": "joyin",
+            "name": "钧舵机器人",
+            "nameZh": "钧舵机器人",
+            "nameEn": "Joyin Robotics",
+            "region": "china",
+            "stage": "early",
+            "founded": 2018,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "End-effector and gripper solutions",
+            "website": "",
+            "products": [],
+            "tags": [
+                "gripper"
+            ]
+        },
+        {
+            "id": "x2robot",
+            "name": "星动纪元",
+            "nameZh": "星动纪元",
+            "nameEn": "X2Robot",
+            "region": "china",
+            "stage": "early",
+            "founded": 2023,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "General-purpose humanoid robots",
+            "website": "",
+            "products": [],
+            "tags": [
+                "humanoid"
+            ]
+        },
+        {
+            "id": "genisom",
+            "name": "青言智能",
+            "nameZh": "青言智能",
+            "nameEn": "Genisom",
+            "region": "china",
+            "stage": "early",
+            "founded": 2024,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Embodied AI startup",
+            "website": "",
+            "products": [],
+            "tags": [
+                "embodied"
+            ]
+        },
+        {
+            "id": "spirit-ai",
+            "name": "有鹿机器人",
+            "nameZh": "有鹿机器人",
+            "nameEn": "Spirit AI",
+            "region": "china",
+            "stage": "early",
+            "founded": 2017,
+            "funding": "B轮",
+            "fundingAmount": 50000000,
+            "description": "Embodied AI for cleaning and service robots",
+            "website": "",
+            "products": [],
+            "tags": [
+                "service"
+            ]
+        },
+        {
+            "id": "leju",
+            "name": "乐聚机器人",
+            "nameZh": "乐聚机器人",
+            "nameEn": "Leju Robot",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2016,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Humanoid and educational robots",
+            "website": "",
+            "products": [],
+            "tags": [
+                "humanoid",
+                "education"
+            ]
+        },
+        {
+            "id": "keenon",
+            "name": "擎朗智能",
+            "nameZh": "擎朗智能",
+            "nameEn": "Keenon Robotics",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2010,
+            "funding": "D轮",
+            "fundingAmount": 200000000,
+            "description": "Leading service robot company",
+            "website": "https://keenon.com",
+            "products": [],
+            "tags": [
+                "service",
+                "delivery"
+            ]
+        },
+        {
+            "id": "orionstar",
+            "name": "猎户星空",
+            "nameZh": "猎户星空",
+            "nameEn": "OrionStar",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2016,
+            "funding": "B轮",
+            "fundingAmount": 100000000,
+            "description": "AI service robots",
+            "website": "https://orionstar.com",
+            "products": [],
+            "tags": [
+                "service"
+            ]
+        },
+        {
+            "id": "gaussian",
+            "name": "高仙机器人",
+            "nameZh": "高仙机器人",
+            "nameEn": "Gaussian Robotics",
+            "region": "china",
+            "stage": "unicorn",
+            "founded": 2013,
+            "funding": "D轮",
+            "fundingAmount": 200000000,
+            "description": "Autonomous cleaning robots",
+            "website": "https://gaussianrobotics.com",
+            "products": [],
+            "tags": [
+                "cleaning",
+                "commercial"
+            ]
+        },
+        {
+            "id": "ninebot",
+            "name": "九号公司",
+            "nameZh": "九号公司",
+            "nameEn": "Ninebot",
+            "region": "china",
+            "stage": "public",
+            "founded": 2012,
+            "funding": "Listed",
+            "fundingAmount": 300000000,
+            "description": "Personal mobility and service robots",
+            "website": "https://ninebot.com",
+            "products": [],
+            "tags": [
+                "mobility",
+                "service"
+            ]
+        },
+        {
+            "id": "flexiv",
+            "name": "非夕科技",
+            "nameZh": "非夕科技",
+            "nameEn": "Flexiv",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2016,
+            "funding": "B轮",
+            "fundingAmount": 100000000,
+            "description": "General-purpose force-controlled robotics",
+            "website": "https://flexiv.com",
+            "products": [
+                "Rizon"
+            ],
+            "tags": [
+                "manipulation",
+                "force control"
+            ]
+        },
+        {
+            "id": "galaxea",
+            "name": "星海图",
+            "nameZh": "星海图",
+            "nameEn": "Galaxea AI",
+            "region": "china",
+            "stage": "early",
+            "founded": 2023,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Embodied intelligence research and development",
+            "website": "",
+            "products": [],
+            "tags": [
+                "embodied"
+            ]
+        },
+        {
+            "id": "tars",
+            "name": "达闼机器人",
+            "nameZh": "达闼机器人",
+            "nameEn": "TARS",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2015,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Cloud-connected humanoid service robots",
+            "website": "",
+            "products": [],
+            "tags": [
+                "humanoid",
+                "service"
+            ]
+        },
+        {
+            "id": "noematrix",
+            "name": "智象科技",
+            "nameZh": "智象科技",
+            "nameEn": "Noematrix",
+            "region": "china",
+            "stage": "early",
+            "founded": 2022,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "AI and robotics technology",
+            "website": "",
+            "products": [],
+            "tags": [
+                "embodied"
+            ]
+        },
+        {
+            "id": "ai2robotics",
+            "name": "AI2 Robotics",
+            "nameZh": "AI2机器人",
+            "nameEn": "AI2 Robotics",
+            "region": "china",
+            "stage": "early",
+            "founded": 2023,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "AI-powered robotics solutions",
+            "website": "",
+            "products": [],
+            "tags": []
+        },
+        {
+            "id": "engineai",
+            "name": "EngineAI",
+            "nameZh": "EngineAI",
+            "nameEn": "EngineAI",
+            "region": "china",
+            "stage": "early",
+            "founded": 2023,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Robotics foundation models and platforms",
+            "website": "",
+            "products": [],
+            "tags": [
+                "VLA"
+            ]
+        },
+        {
+            "id": "booster",
+            "name": "博思特机器人",
+            "nameZh": "博思特机器人",
+            "nameEn": "Booster Robotics",
+            "region": "china",
+            "stage": "early",
+            "founded": 2021,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Humanoid robot development",
+            "website": "",
+            "products": [],
+            "tags": [
+                "humanoid"
+            ]
+        },
+        {
+            "id": "deeprobotics",
+            "name": "深度智控",
+            "nameZh": "深度智控",
+            "nameEn": "DeepRobotics",
+            "region": "china",
+            "stage": "early",
+            "founded": 2017,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Legged robot research and development",
+            "website": "",
+            "products": [],
+            "tags": [
+                "quadruped"
+            ]
+        },
+        {
+            "id": "agile-robots",
+            "name": "思灵机器人",
+            "nameZh": "思灵机器人",
+            "nameEn": "Agile Robots",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2018,
+            "funding": "C轮",
+            "fundingAmount": 150000000,
+            "description": "Intelligent multi-sensing robotic systems",
+            "website": "https://agile-robots.com",
+            "products": [
+                "Diana"
+            ],
+            "tags": [
+                "manipulation",
+                "force control"
+            ]
+        },
+        {
+            "id": "dobot",
+            "name": "越疆科技",
+            "nameZh": "越疆科技",
+            "nameEn": "Dobot",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2015,
+            "funding": "C轮",
+            "fundingAmount": 100000000,
+            "description": "Collaborative robotic arms",
+            "website": "https://dobot.cn",
+            "products": [],
+            "tags": [
+                "manipulation",
+                "education"
+            ]
+        },
+        {
+            "id": "psibot",
+            "name": "派斯机器人",
+            "nameZh": "派斯机器人",
+            "nameEn": "PsiBot",
+            "region": "china",
+            "stage": "early",
+            "founded": 2021,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Service robotics and automation",
+            "website": "",
+            "products": [],
+            "tags": [
+                "service"
+            ]
+        },
+        {
+            "id": "noetix",
+            "name": "Noetix Robotics",
+            "nameZh": "Noetix机器人",
+            "nameEn": "Noetix Robotics",
+            "region": "china",
+            "stage": "early",
+            "founded": 2023,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Embodied AI research startup",
+            "website": "",
+            "products": [],
+            "tags": [
+                "embodied"
+            ]
+        },
+        {
+            "id": "dexforce",
+            "name": "德睿智控",
+            "nameZh": "德睿智控",
+            "nameEn": "DexForce",
+            "region": "china",
+            "stage": "early",
+            "founded": 2022,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Dexterous manipulation systems",
+            "website": "",
+            "products": [],
+            "tags": [
+                "manipulation"
+            ]
+        },
+        {
+            "id": "dexmal",
+            "name": "得迈科技",
+            "nameZh": "得迈科技",
+            "nameEn": "DexMal",
+            "region": "china",
+            "stage": "early",
+            "founded": 2021,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Intelligent robotic grippers and hands",
+            "website": "",
+            "products": [],
+            "tags": [
+                "gripper",
+                "dexterous"
+            ]
+        },
+        {
+            "id": "youlu",
+            "name": "优路机器人",
+            "nameZh": "优路机器人",
+            "nameEn": "YouLu Robotics",
+            "region": "china",
+            "stage": "early",
+            "founded": 2019,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "AMR and mobile robot solutions",
+            "website": "",
+            "products": [],
+            "tags": [
+                "AMR"
+            ]
+        },
+        {
+            "id": "daimon",
+            "name": "达蒙机器人",
+            "nameZh": "达蒙机器人",
+            "nameEn": "Daimon Robotics",
+            "region": "china",
+            "stage": "early",
+            "founded": 2020,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Specialized industrial robotics",
+            "website": "",
+            "products": [],
+            "tags": [
+                "industrial"
+            ]
+        },
+        {
+            "id": "gigaai",
+            "name": "千诀科技",
+            "nameZh": "千诀科技",
+            "nameEn": "GigaAI",
+            "region": "china",
+            "stage": "early",
+            "founded": 2023,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Embodied AI for general-purpose robotics",
+            "website": "",
+            "products": [],
+            "tags": [
+                "embodied"
+            ]
+        },
+        {
+            "id": "paxini",
+            "name": "帕西尼感知",
+            "nameZh": "帕西尼感知",
+            "nameEn": "Paxini",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2021,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Tactile sensing and dexterous manipulation",
+            "website": "",
+            "products": [],
+            "tags": [
+                "sensing",
+                "manipulation"
+            ]
+        },
+        {
+            "id": "astribot",
+            "name": "阿斯特机器人",
+            "nameZh": "阿斯特机器人",
+            "nameEn": "Astribot",
+            "region": "china",
+            "stage": "early",
+            "founded": 2022,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Advanced robotics research",
+            "website": "",
+            "products": [],
+            "tags": [
+                "manipulation"
+            ]
+        },
+        {
+            "id": "magiclab",
+            "name": "魔法原子",
+            "nameZh": "魔法原子",
+            "nameEn": "MagicLab",
+            "region": "china",
+            "stage": "early",
+            "founded": 2024,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "General-purpose robot foundation models",
+            "website": "",
+            "products": [],
+            "tags": [
+                "VLA",
+                "foundation model"
+            ]
+        },
+        {
+            "id": "xpeng-robotics",
+            "name": "小鹏机器人",
+            "nameZh": "小鹏机器人",
+            "nameEn": "XPeng Robotics",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2020,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Humanoid robot by XPeng Motors",
+            "website": "",
+            "products": [
+                "PX5"
+            ],
+            "tags": [
+                "humanoid"
+            ]
+        },
+        {
+            "id": "pudu",
+            "name": "普渡科技",
+            "nameZh": "普渡科技",
+            "nameEn": "Pudu Robotics",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2016,
+            "funding": "C轮",
+            "fundingAmount": 150000000,
+            "description": "Commercial service delivery robots",
+            "website": "https://pudurobotics.com",
+            "products": [
+                "BellaBot",
+                "KettyBot",
+                "PUDU T300"
+            ],
+            "tags": [
+                "service",
+                "delivery"
+            ]
+        },
+        {
+            "id": "syrius",
+            "name": "炬星科技",
+            "nameZh": "炬星科技",
+            "nameEn": "Syrius Robotics",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2018,
+            "funding": "B轮",
+            "fundingAmount": 100000000,
+            "description": "AMR for warehouse and logistics",
+            "website": "https://syriusrobotics.com",
+            "products": [],
+            "tags": [
+                "AMR",
+                "logistics"
+            ]
+        },
+        {
+            "id": "standard-robots",
+            "name": "斯坦德机器人",
+            "nameZh": "斯坦德机器人",
+            "nameEn": "Standard Robots",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2015,
+            "funding": "C轮",
+            "fundingAmount": 100000000,
+            "description": "Industrial AMR and logistics robots",
+            "website": "https://standard-robots.com",
+            "products": [],
+            "tags": [
+                "AMR",
+                "industrial"
+            ]
+        },
+        {
+            "id": "realman",
+            "name": "睿尔曼",
+            "nameZh": "睿尔曼",
+            "nameEn": "RealMan Robotics",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2016,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Collaborative robot arms",
+            "website": "https://realman-robot.com",
+            "products": [],
+            "tags": [
+                "manipulation"
+            ]
+        },
+        {
+            "id": "rokae",
+            "name": "珞石机器人",
+            "nameZh": "珞石机器人",
+            "nameEn": "Rokae",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2015,
+            "funding": "C轮",
+            "fundingAmount": 100000000,
+            "description": "Industrial collaborative robots",
+            "website": "https://rokae.com",
+            "products": [],
+            "tags": [
+                "manipulation",
+                "industrial"
+            ]
+        },
+        {
+            "id": "megarobo",
+            "name": "镁伽机器人",
+            "nameZh": "镁伽机器人",
+            "nameEn": "MegaRobo",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2016,
+            "funding": "C轮",
+            "fundingAmount": 100000000,
+            "description": "Life science and laboratory automation",
+            "website": "https://megarobo.com",
+            "products": [],
+            "tags": [
+                "life science",
+                "lab automation"
+            ]
+        },
+        {
+            "id": "aubo",
+            "name": "遨博智能",
+            "nameZh": "遨博智能",
+            "nameEn": "Aubo Robotics",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2015,
+            "funding": "B轮",
+            "fundingAmount": 50000000,
+            "description": "Collaborative robot arm manufacturer",
+            "website": "https://aubo-robotics.com",
+            "products": [],
+            "tags": [
+                "manipulation"
+            ]
+        },
+        {
+            "id": "elephant-robotics",
+            "name": "大象机器人",
+            "nameZh": "大象机器人",
+            "nameEn": "Elephant Robotics",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2016,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Collaborative robots and robotic arms",
+            "website": "https://elephantrobotics.com",
+            "products": [
+                "myCobot",
+                "myPalletizer"
+            ],
+            "tags": [
+                "manipulation",
+                "education"
+            ]
+        },
+        {
+            "id": "agilex",
+            "name": "松灵机器人",
+            "nameZh": "松灵机器人",
+            "nameEn": "AgileX Robotics",
+            "region": "china",
+            "stage": "growth",
+            "founded": 2016,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "Mobile robot chassis and platforms",
+            "website": "https://agilex.ai",
+            "products": [
+                "Scout",
+                "Hunter",
+                "Bunker"
+            ],
+            "tags": [
+                "AMR",
+                "chassis"
+            ]
+        },
+        {
+            "id": "hiwonder",
+            "name": "幻尔科技",
+            "nameZh": "幻尔科技",
+            "nameEn": "Hiwonder",
+            "region": "china",
+            "stage": "mature",
+            "founded": 2010,
+            "funding": "-",
+            "fundingAmount": 0,
+            "description": "AI educational robot kits",
+            "website": "https://hiwonder.com",
+            "products": [],
+            "tags": [
+                "education"
+            ]
+        },
+        {
+            "id": "siasun",
+            "name": "新松机器人",
+            "nameZh": "新松机器人",
+            "nameEn": "SIASUN",
+            "region": "china",
+            "stage": "public",
+            "founded": 2000,
+            "funding": "Listed",
+            "fundingAmount": 200000000,
+            "description": "China's largest industrial robot manufacturer",
+            "website": "https://siasun.com",
+            "products": [],
+            "tags": [
+                "industrial",
+                "service"
+            ]
+        }
+    ],
+    "connectors": [
+        {
+            "id": "sequoia",
+            "name": "Sequoia Capital",
+            "nameZh": "红杉资本",
+            "description": "Leading global venture capital firm",
+            "website": "https://sequoiacap.com"
+        },
+        {
+            "id": "a16z",
+            "name": "Andreessen Horowitz",
+            "nameZh": "A16Z",
+            "description": "Silicon Valley venture capital firm investing in robotics and AI",
+            "website": "https://a16z.com"
+        },
+        {
+            "id": "softbank",
+            "name": "SoftBank Vision Fund",
+            "nameZh": "软银愿景基金",
+            "description": "Major technology investment fund",
+            "website": "https://visionfund.com"
+        },
+        {
+            "id": "tiger-global",
+            "name": "Tiger Global",
+            "nameZh": "老虎环球",
+            "description": "Global investment firm",
+            "website": "https://tigerglobal.com"
+        },
+        {
+            "id": "lightspeed",
+            "name": "Lightspeed Venture Partners",
+            "nameZh": "光速创投",
+            "description": "Venture capital firm investing in robotics and AI",
+            "website": "https://lsvp.com"
+        },
+        {
+            "id": "khosla",
+            "name": "Khosla Ventures",
+            "nameZh": "Khosla Ventures",
+            "description": "Venture capital firm with strong robotics focus",
+            "website": "https://khoslaventures.com"
+        },
+        {
+            "id": "openai-fund",
+            "name": "OpenAI Startup Fund",
+            "nameZh": "OpenAI创业基金",
+            "description": "OpenAI's investment arm",
+            "website": "https://openai.com"
+        }
+    ],
+    "mentors": [
+        {
+            "id": "feifei-li",
+            "name": "李飞飞",
+            "nameZh": "李飞飞",
+            "affiliation": "Stanford / World Labs",
+            "description": "Professor at Stanford, pioneer in computer vision and embodied AI. Co-director of Stanford HAI.",
+            "website": "https://profiles.stanford.edu/fei-fei-li"
+        },
+        {
+            "id": "pieter-abbeel",
+            "name": "Pieter Abbeel",
+            "nameZh": "Pieter Abbeel",
+            "affiliation": "UC Berkeley / Covariant",
+            "description": "Professor at UC Berkeley, co-founder of Covariant, pioneer in robot learning.",
+            "website": "https://people.eecs.berkeley.edu/~pabbeel/"
+        },
+        {
+            "id": "sergey-levine",
+            "name": "Sergey Levine",
+            "nameZh": "Sergey Levine",
+            "affiliation": "UC Berkeley",
+            "description": "Professor at UC Berkeley, leading researcher in robot learning and reinforcement learning.",
+            "website": "https://people.eecs.berkeley.edu/~svlevine/"
+        },
+        {
+            "id": "chelsea-finn",
+            "name": "Chelsea Finn",
+            "nameZh": "Chelsea Finn",
+            "affiliation": "Stanford",
+            "description": "Professor at Stanford, meta-learning and robot learning researcher.",
+            "website": "https://ai.stanford.edu/~cbfinn/"
+        },
+        {
+            "id": "deepak-pathak",
+            "name": "Deepak Pathak",
+            "nameZh": "Deepak Pathak",
+            "affiliation": "CMU / Skild AI",
+            "description": "Professor at CMU, co-founder of Skild AI, generalist robot foundation models.",
+            "website": "https://www.cs.cmu.edu/~dpathak/"
+        },
+        {
+            "id": "wenlong-huang",
+            "name": "黄文龙",
+            "nameZh": "黄文龙",
+            "affiliation": "UC Berkeley",
+            "description": "Senior researcher in robot learning and VLA models.",
+            "website": ""
+        }
+    ],
+    "relationships": [
+        {
+            "source": "a16z",
+            "target": "figure-ai"
+        },
+        {
+            "source": "openai-fund",
+            "target": "figure-ai"
+        },
+        {
+            "source": "softbank",
+            "target": "figure-ai"
+        },
+        {
+            "source": "openai-fund",
+            "target": "1x-technologies"
+        },
+        {
+            "source": "sequoia",
+            "target": "1x-technologies"
+        },
+        {
+            "source": "lightspeed",
+            "target": "skild-ai"
+        },
+        {
+            "source": "sequoia",
+            "target": "skild-ai"
+        },
+        {
+            "source": "a16z",
+            "target": "skild-ai"
+        },
+        {
+            "source": "khosla",
+            "target": "physical-intelligence"
+        },
+        {
+            "source": "sequoia",
+            "target": "physical-intelligence"
+        },
+        {
+            "source": "sequoia",
+            "target": "nimble"
+        },
+        {
+            "source": "a16z",
+            "target": "robust-ai"
+        },
+        {
+            "source": "lightspeed",
+            "target": "cobotics"
+        },
+        {
+            "source": "tiger-global",
+            "target": "agibot"
+        },
+        {
+            "source": "sequoia",
+            "target": "unitree"
+        },
+        {
+            "source": "softbank",
+            "target": "agile-robots"
+        },
+        {
+            "source": "lightspeed",
+            "target": "flexiv"
+        }
+    ]
+}

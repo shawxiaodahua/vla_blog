@@ -1,0 +1,404 @@
+[
+    {
+        "title": "NVIDIA发布GR00T N1，通用人形机器人基础模型",
+        "summary": "NVIDIA正式发布GR00T N1，首个开放的人形机器人通用基础模型，具备视觉-语言-动作(VLA)能力。",
+        "date": "2026-06-10",
+        "category": [
+            "模型",
+            "产品",
+            "VLA"
+        ],
+        "importance": "hot",
+        "credibility": "verified",
+        "source": "NVIDIA Official",
+        "url": "https://developer.nvidia.com/isaac/gr00t"
+    },
+    {
+        "title": "Figure AI 完成15亿美元新一轮融资",
+        "summary": "Figure AI完成15亿美元新一轮融资，投后估值约400亿美元，加速Figure 03人形机器人量产部署。",
+        "date": "2026-06-08",
+        "category": [
+            "融资",
+            "上市",
+            "公司"
+        ],
+        "importance": "hot",
+        "credibility": "verified",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com"
+    },
+    {
+        "title": "北京具身智能创新发展行动计划发布",
+        "summary": "北京市发布具身智能创新发展行动计划（2026-2030），提出重点发展VLA模型、灵巧操作、人形机器人整机。",
+        "date": "2026-05-28",
+        "category": [
+            "政策",
+            "标准"
+        ],
+        "importance": "major",
+        "credibility": "verified",
+        "source": "北京市科委",
+        "url": "https://kw.beijing.gov.cn"
+    },
+    {
+        "title": "Skild AI发布通用机器人基础模型Skild Brain 2.0",
+        "summary": "Skild AI发布升级版机器人基础模型，在多种具身任务上展现更强的泛化能力。",
+        "date": "2026-05-25",
+        "category": [
+            "模型",
+            "产品",
+            "VLA"
+        ],
+        "importance": "major",
+        "credibility": "verified",
+        "source": "Skild AI Blog",
+        "url": "https://skild.ai"
+    },
+    {
+        "title": "智元机器人发布远征A2人形机器人，进入量产阶段",
+        "summary": "智元机器人正式发布远征A2，宣布进入量产阶段，已获得首批商业订单。",
+        "date": "2026-05-20",
+        "category": [
+            "产品",
+            "部署",
+            "量产"
+        ],
+        "importance": "hot",
+        "credibility": "verified",
+        "source": "Agibot Official",
+        "url": "https://agibot.com"
+    },
+    {
+        "title": "OpenAI计划重启机器人研究，招聘具身智能团队",
+        "summary": "OpenAI正在招聘机器人硬件与软件工程师，计划重启内部机器人研究项目。",
+        "date": "2026-05-18",
+        "category": [
+            "公司",
+            "合作",
+            "研究"
+        ],
+        "importance": "major",
+        "credibility": "verified",
+        "source": "The Information",
+        "url": "https://www.theinformation.com"
+    },
+    {
+        "title": "宇树科技人形机器人G1首次实现全自主奔跑",
+        "summary": "宇树科技G1人形机器人在户外复杂地形实现全自主奔跑，展示新一代运动控制算法。",
+        "date": "2026-05-15",
+        "category": [
+            "产品",
+            "部署"
+        ],
+        "importance": "major",
+        "credibility": "verified",
+        "source": "Unitree Official",
+        "url": "https://unitree.com"
+    },
+    {
+        "title": "Physical Intelligence获4亿美元新融资，估值突破40亿",
+        "summary": "由Khosla Ventures和红杉资本领投，Physical Intelligence估值突破40亿美元。",
+        "date": "2026-05-10",
+        "category": [
+            "融资",
+            "上市"
+        ],
+        "importance": "hot",
+        "credibility": "verified",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com"
+    },
+    {
+        "title": "CVPR 2026接收多篇VLA和世界模型论文",
+        "summary": "CVPR 2026接收通知发布，具身智能与机器人学习方向论文数量创历史新高。",
+        "date": "2026-05-08",
+        "category": [
+            "研究",
+            "竞赛"
+        ],
+        "importance": "major",
+        "credibility": "verified",
+        "source": "CVPR 2026",
+        "url": "https://cvpr2026.thecvf.com"
+    },
+    {
+        "title": "特斯拉Optimus Gen 3在Fremont工厂开始测试",
+        "summary": "特斯拉新一代Optimus人形机器人在Fremont工厂正式开始内部测试，执行物料搬运任务。",
+        "date": "2026-05-01",
+        "category": [
+            "部署",
+            "产业",
+            "应用"
+        ],
+        "importance": "hot",
+        "credibility": "verified",
+        "source": "Tesla Official",
+        "url": "https://tesla.com"
+    },
+    {
+        "title": "1X Technologies发布NEO Gamma家用机器人",
+        "summary": "1X Technologies推出新一代家用服务机器人NEO Gamma，具备改进的VLA操作能力。",
+        "date": "2026-04-28",
+        "category": [
+            "产品",
+            "发布"
+        ],
+        "importance": "major",
+        "credibility": "verified",
+        "source": "1X Official",
+        "url": "https://1x.tech"
+    },
+    {
+        "title": "中国信通院发布具身智能标准体系框架",
+        "summary": "中国信通院发布《具身智能标准体系框架》，涵盖感知、决策、控制、安全等维度。",
+        "date": "2026-04-25",
+        "category": [
+            "政策",
+            "标准"
+        ],
+        "importance": "major",
+        "credibility": "todo",
+        "source": "中国信通院",
+        "url": "https://caict.ac.cn"
+    },
+    {
+        "title": "追觅科技获数亿元融资，加速具身智能研发",
+        "summary": "追觅科技完成数亿元新一轮融资，资金将用于具身智能VLA模型和清洁机器人研发。",
+        "date": "2026-04-22",
+        "category": [
+            "融资",
+            "上市"
+        ],
+        "importance": "major",
+        "credibility": "todo",
+        "source": "36氪",
+        "url": "https://36kr.com"
+    },
+    {
+        "title": "Google DeepMind发布RT-3机器人大模型",
+        "summary": "DeepMind发布RT-3，基于更大规模数据和增强架构，在复杂操作任务上取得突破。",
+        "date": "2026-04-18",
+        "category": [
+            "模型",
+            "论文"
+        ],
+        "importance": "hot",
+        "credibility": "verified",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google"
+    },
+    {
+        "title": "波士顿动力Atlas完成自主建筑工地作业演示",
+        "summary": "波士顿动力Atlas人形机器人在模拟建筑工地完成自主搬运、安装等一系列复杂操作。",
+        "date": "2026-04-15",
+        "category": [
+            "产品",
+            "部署",
+            "应用"
+        ],
+        "importance": "hot",
+        "credibility": "verified",
+        "source": "Boston Dynamics",
+        "url": "https://bostondynamics.com"
+    },
+    {
+        "title": "全国人形机器人创新联盟正式成立",
+        "summary": "由工信部指导，全国人形机器人创新联盟在上海正式成立，联合30余家企业与研究机构。",
+        "date": "2026-04-10",
+        "category": [
+            "政策",
+            "活动",
+            "合作"
+        ],
+        "importance": "major",
+        "credibility": "verified",
+        "source": "工信部",
+        "url": "https://miit.gov.cn"
+    },
+    {
+        "title": "MagicLab发布通用操作世界模型，开源",
+        "summary": "魔法原子MagicLab开源通用操作世界模型，支持多种机器人平台的操作任务仿真。",
+        "date": "2026-04-05",
+        "category": [
+            "模型",
+            "开源",
+            "研究"
+        ],
+        "importance": "major",
+        "credibility": "verified",
+        "source": "MagicLab GitHub",
+        "url": "https://github.com"
+    },
+    {
+        "title": "2026春招：具身算法工程师平均薪资45k，同比涨30%",
+        "summary": "2026年春季招聘数据显示，具身智能算法工程师岗位平均月薪45k，较去年同期上涨约30%。",
+        "date": "2026-04-01",
+        "category": [
+            "产业",
+            "公司"
+        ],
+        "importance": "normal",
+        "credibility": "todo",
+        "source": "Boss直聘研究院",
+        "url": "https://zhipin.com"
+    },
+    {
+        "title": "阿斯特机器人完成新一轮融资，估值超10亿美元",
+        "summary": "Astribot完成新一轮融资，投后估值超10亿美元，成为新晋具身智能独角兽。",
+        "date": "2026-03-25",
+        "category": [
+            "融资",
+            "上市"
+        ],
+        "importance": "major",
+        "credibility": "todo",
+        "source": "投资界",
+        "url": "https://pedaily.cn"
+    },
+    {
+        "title": "世界机器人大会2026定档8月，设立VLA专题",
+        "summary": "2026世界机器人大会将于8月在京举办，首次设立VLA/VLM与具身智能专题论坛。",
+        "date": "2026-03-20",
+        "category": [
+            "活动",
+            "赛事"
+        ],
+        "importance": "normal",
+        "credibility": "verified",
+        "source": "世界机器人大会",
+        "url": "https://worldrobotconference.com"
+    },
+    {
+        "title": "RSS 2026接受多篇具身世界模型论文，中国团队占比创新高",
+        "summary": "Robotics: Science and Systems (RSS) 2026接受结果公布，中国团队论文占比突破40%。",
+        "date": "2026-03-15",
+        "category": [
+            "研究",
+            "竞赛"
+        ],
+        "importance": "major",
+        "credibility": "verified",
+        "source": "RSS 2026",
+        "url": "https://roboticsconference.org"
+    },
+    {
+        "title": "工信部：2026年重点支持人形机器人产业5大方向",
+        "summary": "工信部明确2026年重点支持的5大方向：整机、关节、灵巧手、VLA模型、仿真平台。",
+        "date": "2026-03-10",
+        "category": [
+            "政策",
+            "标准"
+        ],
+        "importance": "hot",
+        "credibility": "verified",
+        "source": "工信部",
+        "url": "https://miit.gov.cn"
+    },
+    {
+        "title": "傅利叶智能GR-2人形机器人进入量产测试",
+        "summary": "傅利叶智能新一代全尺寸人形机器人GR-2开始量产测试，计划首批交付100台。",
+        "date": "2026-03-05",
+        "category": [
+            "产品",
+            "量产"
+        ],
+        "importance": "major",
+        "credibility": "verified",
+        "source": "Fourier Intelligence",
+        "url": "https://fourierintelligence.com"
+    },
+    {
+        "title": "字节跳动成立具身智能实验室，发布BagelVLA",
+        "summary": "字节跳动正式成立具身智能实验室，并发布BagelVLA模型，专注长时任务规划。",
+        "date": "2026-03-01",
+        "category": [
+            "模型",
+            "公司"
+        ],
+        "importance": "hot",
+        "credibility": "verified",
+        "source": "ByteDance Official",
+        "url": "https://bytedance.com"
+    },
+    {
+        "title": "小鹏机器人PX5获首批商业订单100台",
+        "summary": "小鹏机器人PX5人形机器人获得首批100台商业订单，用于工厂生产线物料搬运。",
+        "date": "2026-02-28",
+        "category": [
+            "部署",
+            "量产",
+            "商业化"
+        ],
+        "importance": "major",
+        "credibility": "todo",
+        "source": "晚点LatePost",
+        "url": "https://latepost.com"
+    },
+    {
+        "title": "阿里通义千问发布Qwen-VLA，开源具身VLA模型",
+        "summary": "阿里巴巴通义千问团队开源Qwen-VLA，首个大规模开源VLA模型，支持多种机器人平台。",
+        "date": "2026-02-20",
+        "category": [
+            "模型",
+            "开源",
+            "VLA"
+        ],
+        "importance": "hot",
+        "credibility": "verified",
+        "source": "Qwen Blog",
+        "url": "https://qwenlm.github.io"
+    },
+    {
+        "title": "逐际动力轮式人形机器人完成跑酷演示",
+        "summary": "LimX Dynamics轮式人形机器人在复杂地形完成跑酷和自主导航演示。",
+        "date": "2026-02-15",
+        "category": [
+            "产品",
+            "演示"
+        ],
+        "importance": "normal",
+        "credibility": "verified",
+        "source": "LimX Official",
+        "url": "https://limxdynamics.com"
+    },
+    {
+        "title": "2025年全球人形机器人市场融资超150亿美元",
+        "summary": "Crunchbase数据统计显示，2025年全球人形机器人领域总融资超过150亿美元。",
+        "date": "2026-02-10",
+        "category": [
+            "融资",
+            "产业"
+        ],
+        "importance": "major",
+        "credibility": "verified",
+        "source": "Crunchbase",
+        "url": "https://crunchbase.com"
+    },
+    {
+        "title": "李飞飞成立World Labs，获2.3亿美元首轮融资",
+        "summary": "斯坦福李飞飞教授创立的World Labs完成首轮2.3亿美元融资，专注空间智能。",
+        "date": "2026-02-05",
+        "category": [
+            "融资",
+            "公司",
+            "研究"
+        ],
+        "importance": "hot",
+        "credibility": "verified",
+        "source": "Reuters",
+        "url": "https://reuters.com"
+    },
+    {
+        "title": "高仙机器人发布全新楼宇清洁机器人G5",
+        "summary": "高仙机器人发布第五代楼宇清洁机器人，搭载自研VLA导航模型。",
+        "date": "2026-01-28",
+        "category": [
+            "产品",
+            "发布"
+        ],
+        "importance": "normal",
+        "credibility": "verified",
+        "source": "Gaussian Robotics",
+        "url": "https://gaussianrobotics.com"
+    }
+]
