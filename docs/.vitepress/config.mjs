@@ -644,7 +644,7 @@ export default withMermaid(defineConfig({
   ],
 
   themeConfig: {
-    logo: { light: '/logo-atlas-gpt-image2-256.png', dark: '/logo-atlas-gpt-image2-256.png', alt: '具身星图' },
+    logo: { light: '/logo-atlas-gpt-image2-256.svg', dark: '/logo-atlas-gpt-image2-256.svg', alt: '具身星图' },
     siteTitle: '具身星图',
 
     nav: [

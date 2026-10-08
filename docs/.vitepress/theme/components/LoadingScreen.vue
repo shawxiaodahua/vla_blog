@@ -169,7 +169,7 @@ const waitForCriticalMedia = async () => {
     .map((video) => withTimeout(waitForVideoElement(video), 2600))
 
   const knownHeroAssets = [
-    withBase('/hero-bg.jpg'),
+    withBase('/hero-bg.svg'),
   ].map((src) => withTimeout(waitForStandaloneImage(src), 2200))
 
   await Promise.all([...imageWaits, ...videoWaits, ...knownHeroAssets])
@@ -312,7 +312,7 @@ onBeforeUnmount(() => {
       v-if="isVisible"
       class="loading-screen"
       :class="{ 'is-ready': pageReady }"
-      :style="{ '--loader-bg': `url(${withBase('/hero-bg.jpg')})` }"
+      :style="{ '--loader-bg': `url(${withBase('/hero-bg.svg')})` }"
       @click="skip"
     >
       <div class="cinema-backdrop" aria-hidden="true"></div>
