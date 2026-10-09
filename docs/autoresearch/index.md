@@ -1,8 +1,8 @@
 ---
 title: 每日论文 Ideas
-layout: page
+description: 每天自动结合最新论文队列、内置研究信号与站内落盘论文,离线推送可写成 paper 的 ideas。
+pageClass: ar-page
+aside: false
 ---
 
-# 每日论文 Ideas
-
-自动追踪最新 arXiv 论文，AI 生成研究灵感与可复现路线。
+<AutoResearchLab />

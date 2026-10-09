@@ -141,8 +141,8 @@ function paperHrefFromPath(rawPath) {
 
 function normalizeInternalHref(href, baseDir = '') {
   let value = String(href || '')
-    .replace(/^https?:\/\/(zhuyun97\.github\.io\/embodied-ai-learning|shawxiaodahua\.github\.io\/vla_blog)/, '')
-    .replace(/^\/(embodied-ai-learning|vla_blog)\//, '/')
+    .replace(/^https?:\/\/zhuyun97\.github\.io\/embodied-ai-learning/, '')
+    .replace(/^\/embodied-ai-learning/, '')
   if (!value || /^(https?:|mailto:|tel:)/.test(value)) return value
   const hashIndex = value.indexOf('#')
   if (hashIndex >= 0) value = value.slice(0, hashIndex)
@@ -644,7 +644,7 @@ export default withMermaid(defineConfig({
   ],
 
   themeConfig: {
-    logo: { light: '/logo-atlas-gpt-image2-256.svg', dark: '/logo-atlas-gpt-image2-256.svg', alt: '具身星图' },
+    logo: { light: '/logo-atlas-gpt-image2-256.png', dark: '/logo-atlas-gpt-image2-256.png', alt: '具身星图' },
     siteTitle: '具身星图',
 
     nav: [
@@ -749,11 +749,11 @@ export default withMermaid(defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/shawxiaodahua/vla_blog' },
+      { icon: 'github', link: 'https://github.com/ZhuYun97/embodied-ai-learning' },
     ],
 
     editLink: {
-      pattern: 'https://github.com/shawxiaodahua/vla_blog/edit/main/docs/:path',
+      pattern: 'https://github.com/ZhuYun97/embodied-ai-learning/edit/main/docs/:path',
       text: '在 GitHub 上编辑本页',
     },
 

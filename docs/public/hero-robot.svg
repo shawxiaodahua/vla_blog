@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 560" fill="none" role="img" aria-label="具身智能机器人概念图">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="limb" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="0.5" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#7c5cf0"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="panelV" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="visor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#67e8f9" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#1e3a8a" stop-opacity="0.10"/>
+    </linearGradient>
+    <linearGradient id="cone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0.16"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ecfeff"/>
+      <stop offset="0.4" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0.16"/>
+    </radialGradient>
+    <radialGradient id="ped" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.5"/>
+      <stop offset="0.55" stop-color="#2563eb" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="g" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="gp" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+  </defs>
+
+  <!-- tilted orbit accent -->
+  <g opacity="0.34">
+    <ellipse cx="240" cy="252" rx="172" ry="56" stroke="url(#edge)" stroke-width="1.6" transform="rotate(-16 240 252)"/>
+  </g>
+  <circle cx="398" cy="196" r="3.6" fill="#22d3ee" filter="url(#g)" opacity="0.85"/>
+
+  <!-- holographic pedestal -->
+  <polygon points="196,500 218,322 262,322 284,500" fill="url(#cone)"/>
+  <ellipse cx="240" cy="508" rx="166" ry="30" fill="url(#ped)" filter="url(#gp)"/>
+  <g stroke="url(#edge)" fill="none">
+    <ellipse cx="240" cy="508" rx="150" ry="25" stroke-width="2" opacity="0.7"/>
+    <ellipse cx="240" cy="508" rx="106" ry="16" stroke-width="1.6" opacity="0.5"/>
+    <ellipse cx="240" cy="508" rx="60" ry="9" stroke-width="1.4" opacity="0.4"/>
+  </g>
+
+  <!-- limbs (glowing tubes, behind body) -->
+  <g stroke="url(#limb)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" filter="url(#g)">
+    <path d="M180 208 L150 262 L156 320"/>
+    <path d="M300 208 L330 262 L324 320"/>
+    <path d="M223 348 L214 422 L212 476"/>
+    <path d="M257 348 L266 422 L268 476"/>
+  </g>
+
+  <!-- body panels (translucent holo + bright edges) -->
+  <g stroke="url(#edge)" stroke-width="2.6" stroke-linejoin="round" filter="url(#g)">
+    <path d="M240 82 V60" stroke-width="4"/>
+    <rect x="180" y="108" width="12" height="36" rx="6" fill="url(#panelV)"/>
+    <rect x="288" y="108" width="12" height="36" rx="6" fill="url(#panelV)"/>
+    <rect x="190" y="82" width="100" height="86" rx="26" fill="url(#panel)"/>
+    <rect x="204" y="102" width="72" height="44" rx="18" fill="url(#visor)" stroke-width="2"/>
+    <rect x="220" y="166" width="40" height="18" rx="6" fill="url(#panelV)"/>
+    <rect x="166" y="186" width="148" height="22" rx="11" fill="url(#panel)"/>
+    <rect x="176" y="200" width="128" height="122" rx="26" fill="url(#panel)"/>
+    <circle cx="240" cy="256" r="30" fill="none" stroke-width="3"/>
+    <path d="M240 210 V232" stroke-width="2"/>
+    <rect x="214" y="300" width="52" height="9" rx="4.5" fill="url(#panelV)" stroke-width="1.6"/>
+    <rect x="200" y="320" width="80" height="28" rx="12" fill="url(#panelV)"/>
+    <rect x="144" y="316" width="28" height="24" rx="9" fill="url(#panelV)"/>
+    <rect x="308" y="316" width="28" height="24" rx="9" fill="url(#panelV)"/>
+    <rect x="182" y="476" width="56" height="22" rx="9" fill="url(#panelV)"/>
+    <rect x="242" y="476" width="56" height="22" rx="9" fill="url(#panelV)"/>
+  </g>
+
+  <!-- glowing reactor core -->
+  <circle cx="240" cy="256" r="17" fill="url(#core)" filter="url(#g)"/>
+  <circle cx="240" cy="256" r="6" fill="#ecfeff"/>
+
+  <!-- eyes -->
+  <g fill="#d9f6ff" filter="url(#g)">
+    <circle cx="222" cy="125" r="6.4"/><circle cx="258" cy="125" r="6.4"/>
+  </g>
+
+  <!-- bright joint / antenna nodes -->
+  <g fill="#67e8f9" filter="url(#g)">
+    <circle cx="240" cy="58" r="5"/>
+    <circle cx="150" cy="262" r="4.6"/><circle cx="330" cy="262" r="4.6"/>
+    <circle cx="214" cy="422" r="4.4"/><circle cx="266" cy="422" r="4.4"/>
+  </g>
+</svg>

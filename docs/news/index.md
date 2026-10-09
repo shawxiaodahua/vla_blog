@@ -1,8 +1,18 @@
 ---
-title: 具身智能行业动态
-layout: page
+title: 具身智能新闻
+description: 跟踪具身智能(VLA / WAM / 人形机器人)领域非论文动态——头部公司战略、产品发布、融资上市、产业落地、活动竞赛与政策标准。论文候选统一进入每日最新论文页。
+sidebar: false
+aside: false
+pageClass: news-brief-page
 ---
 
-# 具身智能行业动态
+<script setup>
+import NewsIndex from '../.vitepress/theme/components/NewsIndex.vue'
+import NewsFooter from '../.vitepress/theme/components/NewsFooter.vue'
+</script>
 
-追踪具身智能领域的最新行业动态，包括融资、产品发布、政策法规、研究进展等。
+<NewsIndex />
+
+<NewsFooter />
+
+<!--BOT-LAST-FETCH--><!--/BOT-LAST-FETCH-->

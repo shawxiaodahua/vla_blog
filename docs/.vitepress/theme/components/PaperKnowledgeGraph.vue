@@ -729,7 +729,7 @@ function handleNodeKey(e, n) {
 </template>
 
 <style scoped>
-:global(.vp-doc._vla_blog_ecosystem_paper-graph) {
+:global(.vp-doc._embodied-ai-learning_ecosystem_paper-graph) {
   overflow-x: clip;
 }
 

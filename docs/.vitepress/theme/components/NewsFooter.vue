@@ -1,7 +1,7 @@
 <script setup>
 import { withBase } from 'vitepress'
 
-const REPO = 'https://github.com/shawxiaodahua/vla_blog'
+const REPO = 'https://github.com/ZhuYun97/embodied-ai-learning'
 
 const importance = [
   { label: '重磅', cls: 'hot', desc: '巨额融资、IPO、顶会最佳论文、旗舰产品与战略合作' },
